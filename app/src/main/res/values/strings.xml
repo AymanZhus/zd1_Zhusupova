@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise One</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+</resources>

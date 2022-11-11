@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MangaName">
+        <item>One punch man</item>
+        <item>Chainsaw Man</item>
+        <item>On a leash</item>
+
+    </string-array>
+
+</resources>
